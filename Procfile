@@ -1,1 +1,1 @@
-web: gunicorn 'quangcao.wsgi'
+web: python manage.py migrate && python manage.py collectstatic && gunicorn quangcao.wsgi
