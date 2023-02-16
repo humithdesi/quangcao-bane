@@ -154,14 +154,9 @@ AWS_STORAGE_BUCKET_NAME = 's3luutru'
 AWS_QUERYSTRING_AUTH=False
 
 STATIC_URL = '/static/'
+STATIC_ROOT = '/static/'
 MEDIA_URL = '/media/'
 MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
-STATIC_ROOT = BASE_DIR / 'staticfiles'
-
-# The URL to use when referring to static files (where they will be served from)
-STATIC_URL = '/static/'
-STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
-
 filename = uuid.uuid4() 
 DJANGORESIZED_DEFAULT_SIZE = [1920, 1080]
 DJANGORESIZED_DEFAULT_SCALE = 0.5
