@@ -142,18 +142,16 @@ REST_FRAMEWORK = {
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:4200",
     "https://app-quangcao.web.app"
-
 ]
 
 
-DEFAULT_FILE_STORAGE = 'storages.backends.s3boto3.S3Boto3Storage'
 
-
-
-AWS_ACCESS_KEY_ID = 'AKIA3OGGS6OITV3YV6VF'
-AWS_SECRET_ACCESS_KEY = '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'
-AWS_STORAGE_BUCKET_NAME = 's3luutru'
-AWS_QUERYSTRING_AUTH=False
+from google.oauth2 import service_account
+GS_CREDENTIALS = service_account.Credentials.from_service_account_file(
+    os.path.join(BASE_DIR, 'friendly-medley-168103-553364d229ca.json')
+)
+DEFAULT_FILE_STORAGE = 'storages.backends.gcloud.GoogleCloudStorage'
+GS_BUCKET_NAME = 'cloudquangcao'
 
 STATIC_URL = '/static/'
 STATIC_ROOT = '/static/'

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "friendly-medley-168103",
+  "private_key_id": "553364d229ca2d015dfcbfe53350e1cb9fd94aac",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCtYnR5WSo13oUU\nFaRL4fAbNoWFdNcqcMqZsCauzz9axh/LBufwANAKhlmiDPxVVMmcL4gM7h+6vG/5\nBLvSASJFudvD/yRKSxkyE9sGugwaJI+ZeO4fUlBKC/PGkqnkrbY7m/aSlFK/PiPj\nXvuVReVm0Idzd/mVnhrcFgzaYrX9RVx3aJh7e8Zl31FkrxfqoDWRJ3LLUQ9X0Nxx\nnNwPm2tR6BoaGULxEkA8yxBf+yhNRD6SZkTkQv71hE/jUi3BxwOGltmF3kbi+A/O\nxzAjQXuk08JXCoM75/17sX9ZH/i/cpQIM1D5sORtBSdyX2YNiy1Bnx/MQesQEfrI\nrkgwuwJJAgMBAAECggEABEaO5P2tB+xLd5Pzi9//1+nzp7d6hVxH8LuKbqnjb/F+\nD/eFAXMBrlrDC9caY1/Og3ScHCaEn4odUEScvZhj0Bid2eLZMiBROB4LewpcOUpQ\nxLn51EmnO3Y5Phq4iBA9E9H8Jf/0nOzzPVyGo3cYab1Hc9Jf9B+0nZwJF9sSjhLt\nBI+wBmFvRTGgEUPaFkvF6eGs2z2gfL95uB/5QDSsVGwI0FcGkeySypk016GVA1I6\n39h4l3d/q2d9kTPtnZ0wJbd72rLrhiXKyMhl8/b381wbTVSBPVXAmM76RCozacMj\no8fzx32nJVx7ToV25ARX1mFO4n++rvxH+wdz1s3+EQKBgQDfwhjoNLVdmC25kk+Z\nHHH6HhZXcsj9t0Q/pqPuJI9mBYuBP2tOLauIiOFXiK/P1gsoJ1swT3OFmRHdCjJ4\nVbOVeYDzmemluKMNYrdFmTzVhPxBx/XMFGd2cC1jEXKPgwDNcvJCSry/jHGx25ZD\niYc85uyQlKaHz/y+VznzP2n7GQKBgQDGXjJFcTa7tRkq24OJKEt2znivU/DB3vdX\nkwuPvRUVa6r9QywPQ6VVAop4sYbsDcRVO6VL1ZpeElkl7q/xsCQt5Je36oaulFA6\ngUJjx3isVE3N1I060CTNhmLGQ5qMd4pdFD1YWZ/fGSU+RB2O3d9UxEAcSU7PbFzC\nvXWKbCpWsQKBgHZzJIY/6MasGYCEEHkIEtoJ9V/DltygmJNtXphhaDvksY3xCZfw\nGz8C3u9cn11RfMR72Q0A8jGF72voywDitVdqY7YRAxvEWyRp3oUMcqTBalxUQy0O\nnBqZlZ09Dj0kZ1dbAx3OvI5WBZXWnXwRILM/t3luB54bnzsPp9C6ABt5AoGAVQwZ\nvZAWiU/RpIBM2sc944gOUg1JEbXIkfFnaY8FtRNeUgs0nq6/+byHJcvnLtmQLYLP\nEb5Y2rA/LHYzVQnR2SNCsQWKDNtlsk+s6R6ibDAQ04inrGmE/eD6BEsDvemaluGQ\nk4qJcptTTmjhy1jw4WTqn7YGZgPtmUilVl2doWECgYEAtSNJWoYBRTAnqEykopI6\nPpg6AJaWlpPH3VWN33RNZuXNKBrP4D0TlqTCNodcBiQ6lwSKmWh/QdAgmjsi8OWg\nYbc+OTxQyg3/00tndP0K8xXRuIo4uplGjN97Em3FMzTPCZwv6yJdWC51syFIJ4oX\nv/oC4mneLOBSKooLXnZmvn8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "djangocloudquangcao@friendly-medley-168103.iam.gserviceaccount.com",
+  "client_id": "113182696701389486321",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/djangocloudquangcao%40friendly-medley-168103.iam.gserviceaccount.com"
+}
