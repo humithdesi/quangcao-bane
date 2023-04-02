@@ -44,6 +44,7 @@ INSTALLED_APPS = [
     'ckeditor',
     'storages',
     'api_quangcao',
+    'rest_framework.authtoken'
     
 ]
 
