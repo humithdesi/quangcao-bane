@@ -59,7 +59,7 @@ MIDDLEWARE = [
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
-
+CSRF_TRUSTED_ORIGINS = ['https://web-production-5af6.up.railway.app','https://*.127.0.0.1']
 ROOT_URLCONF = 'quangcao.urls'
 
 TEMPLATES = [
